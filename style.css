@@ -28,7 +28,7 @@ margin: 0;
 #isi-menu a{
   color: #fffffa;
   text-decoration: none;
-  font-family: '';
+  font-family: 'Caveat Brush', cursive;
   font-size: 20px;
 }
 #kontak-telepon{
@@ -37,7 +37,7 @@ margin: 0;
     margin-top: 50px;
     margin-right: 150px;
     float: right;
-    font-family: ''Merienda One', cursive;
+    font-family: 'Merienda One', cursive;
 }
 #slide img{
     width: 100%;
@@ -52,7 +52,7 @@ margin: 0;
 #dipercaya p{
     margin: 0;
     color: #2f4f4f;
-    font-size: 80px;
+    font-size: 70px;
     font-family: 'Lobster';
 }
 #dipercaya img{
@@ -66,18 +66,18 @@ margin: 0;
     background-attachment: fixed;
     color: #fffacd;
     font-family: 'Caveat Brush', cursive;
-    font-size: 23px;
+    font-size: 20px;
 }
 #judul-pembeda{
   color: #fffacd;
-  font-size: 64px;
+  font-size: 50px;
   font-family: 'Caveat Brush', cursive;
   font-weight: 400;
   margin-top: -20px;
 }
 #subjudul-pembeda{
    font-family: 'Leckerli One', cursive;
-   font-size: 80px;
+   font-size: 70px;
 }
 #bungkus-pembeda{
     width: 960px;
@@ -151,7 +151,7 @@ margin: 0;
 }
 
 #isi-profile a{
-  color: ##ff1493;
+  color: #ff1493;
   text-decoration: none;
   font-family: 'Merienda One', cursive;
   
@@ -303,7 +303,7 @@ margin: 0;
 }
 
 #isi-contact a{
-  color: ##ff1493;
+  color: #ff1493;
   text-decoration: none;
   font-family: 'Merienda One', cursive;
   
